@@ -1,0 +1,2 @@
+ATTRS{idVendor}=="04cb", ATTRS{idProduct}=="0186", SUBSYSTEMS=="usb" KERNEL=="sda1", RUN+="/home/stamp/finepix.sh"
+
